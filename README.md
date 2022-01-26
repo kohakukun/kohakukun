@@ -30,7 +30,7 @@ In the last few years, I have mainly done front-end development using React.js a
 ## 🌱 I’m currently learning
 - WebGPU api and current specification
 - Ray tracing shading and methods from https://www.realtimerendering.com/raytracinggems/
-- 
+
 ## 👯 I’m looking to collaborate on
 - Any idea for creative programming involving machine learning, 3D rendering and sound engineering
 
