@@ -3,6 +3,13 @@ I'm a driven and enthusiastic software developer, with a big appetite for learni
 
 In the last few years, I have mainly done front-end development using React.js and Typescript but, from time to time I've incurred into C++ projects.
 
+<a href="https://github.com/kohakukun/kohakukun">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/kohakukun/kohakukun">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinHeinz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
+
 ## Programming Languages
 ![](https://img.shields.io/badge/-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
