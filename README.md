@@ -26,7 +26,8 @@ In the last few years, I have mainly done front-end development using React.js a
 ![](https://img.shields.io/badge/-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a)
 
 ## Tools and Others
-![](https://img.shields.io/badge/-CLinux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/-CMake-informational?style=flat&logo=Cmake&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/-AWS-informational?style=flat&logo=aws&logoColor=white&color=2bbc8a)
