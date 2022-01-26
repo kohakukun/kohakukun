@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a driven and enthusiastic software developer, with a big appetite for learning and challenges. Passionate about video games and computer graphics.
+I'm a driven and enthusiastic software developer, with a big appetite for learning and challenges. Passionate about video games and computer graphics. You can find me on [LinkedIn](https://www.linkedin.com/in/aura-munoz/). 
 
 In the last few years, I have mainly done front-end development using React.js and Typescript but, from time to time I've incurred into C++ projects.
 
@@ -34,8 +34,6 @@ In the last few years, I have mainly done front-end development using React.js a
 ## 👯 I’m looking to collaborate on
 - Any idea for creative programming involving machine learning, 3D rendering and sound engineering
 
-## 📫 How to reach me
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
 
 
